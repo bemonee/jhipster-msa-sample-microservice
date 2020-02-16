@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bemonee.msa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "sample",
+    "packageName": "com.bemonee.msa",
+    "packageFolder": "com/bemonee/msa",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmQ0YWU0ZjMzOGI5Yjk4OGE1MzlhMzA4ZTllMTBkOTk4M2I3OGQyMGM2MTVlN2FmMTI4OWQxODliMWQwZjNjYzE3ZjdjNThjMzNlYWE1OGNjMDBkZTczMzg3ZjMzNDBiNTY2MjVkMzc5NjRkZjE4Y2VjODRmNjUzMjNlZDMzYjM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1581877655851,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "es"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
